@@ -1,0 +1,61 @@
+*{
+  margin: 0px;
+
+}
+
+li, ul{
+  display: inline-block;
+}
+
+#logo{
+    position: absolute;
+    left:0px;
+    top:0px;
+    border: 2px solid black;
+}
+
+#glogo{
+  padding-top: 18px;
+  padding-left: 10px;
+}
+
+input {
+    height: 35px;
+    width: 630px;
+}
+
+#middle{
+  position: absolute;
+  left: 135px;
+  width: auto;
+  padding-top:0px;
+  padding-left: 0px;
+  border: 2px solid red;
+}
+
+#navright{
+  margin: auto;
+  width: auto;
+  position:absolute;
+  top: 0px;
+  right: 0px;
+  border: 2px solid green;
+}
+
+/*
+#logo{
+  width: auto;
+  position:relative;
+  top: 0px;
+}
+
+
+
+.try{
+  display: block;
+}
+
+/*
+
+}
+*/
