@@ -2,7 +2,6 @@
   margin: 0px;
   font-family: arial, sans-serif;
   font-size: 13px;
-
 }
 
 li, ul{
@@ -77,14 +76,33 @@ form {
   border-bottom: 1px solid #e4e4e4;
 }
 
-#results{
-  width: 300px;
+.results{
+  width: 650px;
   position: relative;
   left:130px;
+}
+
+p{
+  padding-left:40px;
 }
 
 p.time{
   padding-left: 40px;
   padding-top: 20px;
+  color: #666666;
+}
+
+.title{
+  padding-top: 28px;
+  font-size: 18px;
+  color: blue;
+}
+
+.link{
+  font-size:15px;
+  color:green;
+}
+
+.par{
   color: #666666;
 }
