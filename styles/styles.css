@@ -95,7 +95,13 @@ p.time{
 .title{
   padding-top: 28px;
   font-size: 18px;
-  color: blue;
+  color: #280DAB;
+}
+.title:hover{
+  text-decoration: underline;
+}
+li:hover{
+  color: black;
 }
 
 .link{
@@ -105,4 +111,14 @@ p.time{
 
 .par{
   color: #666666;
+}
+
+.related{
+  padding-top: 28px;
+  font-size: 18px;
+  color: black;
+}
+
+table{
+  
 }
